@@ -1,3 +1,3 @@
-# Wiki Assets Repo
+# PojavLauncher Assets Repo
 
-A collection of the media you see on the Android or iOS wikis.
+Hosting for media we use in the PojavLauncher wikis and on Twitter.
